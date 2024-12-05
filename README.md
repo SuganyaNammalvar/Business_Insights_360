@@ -34,3 +34,10 @@ Atliq hardware company is growing rapidly in recent years however due to unfores
  - Gross Margin
 
  - Net Profit
+
+ - Benchmark
+
+ - YTD(Year-to-date)
+
+ - YTG(Year-to-go)
+ 
