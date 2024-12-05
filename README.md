@@ -19,7 +19,7 @@ Atliq hardware company is growing rapidly in recent years however due to unfores
 
 **Business Terminologies:**
  
- 1.Gross Price
+ . Gross Price
 
  2.Pre-invoice deductions
 
