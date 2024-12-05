@@ -48,12 +48,20 @@ Dataset is used for analysis,reporting and decision-making.In Power Bi,datasets 
 
 **Dimension Table:It contains attributes on that truth table calculates the metric.While in dimension table,there is  more attributes than fact table
 
-**Fact Table:It contains the measuring of the attributes of a dimension table.
+*Fact Table:It contains the measuring of the attributes of a dimension table.
  
 - gdb041:
-   dim_customer,dim_market,dim_product,fact_forecast_monthly,fact_sales_monthly
+
+   dim_customer,
+   dim_market,
+   dim_product,
+   fact_forecast_monthly,
+   fact_sales_monthly
 
    - gdb056:
 
-   freight_cost,gross_price,manufacturing_cost,pre_invoce deductions,post_invoice_deductions
-
+   freight_cost,
+   gross_price,
+   manufacturing_cost,
+   pre_invoce deductions,
+   post_invoice_deductions
