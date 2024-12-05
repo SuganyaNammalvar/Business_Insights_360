@@ -19,18 +19,18 @@ Atliq hardware company is growing rapidly in recent years however due to unfores
 
 **Business Terminologies:**
  
- . Gross Price
+- Gross Price
 
- 2.Pre-invoice deductions
+ - Pre-invoice deductions
 
- 3.Net Invoice sales
+ - Net Invoice sales
 
- 4.Post-invoice deductions
+ - Post-invoice deductions
 
- 5.Net sales
+-  Net sales
 
- 6.Cost of Goods Sold(COGS)
+ - Cost of Goods Sold(COGS)
  
- 7.Gross Margin
+ - Gross Margin
 
- 8.Net Profit
+ - Net Profit
