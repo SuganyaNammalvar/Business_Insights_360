@@ -58,7 +58,7 @@ Dataset is used for analysis,reporting and decision-making.In Power Bi,datasets 
    fact_forecast_monthly,
    fact_sales_monthly
 
-   - gdb056:
+- gdb056:
 
    freight_cost,
    gross_price,
