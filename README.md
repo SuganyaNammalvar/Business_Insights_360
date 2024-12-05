@@ -6,15 +6,15 @@ Atliq hardware company is growing rapidly in recent years however due to unfores
 
 **Tools used:**
 
-1.MySQL database
+- MySQL database
 
-2.Power Bi
+- Power Bi
 
-3.Excel
+- Excel
 
-4.Power Query
+- Power Query
 
-5.DAX Language
+- DAX Language
 
 
 **Business Terminologies:**
