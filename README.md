@@ -80,5 +80,27 @@ Dataset is used for analysis,reporting and decision-making.In Power Bi,datasets 
    Data modelling is a very important part of the data anlaytics pipeline .It allows you to visually set the relationship between the tables.In this project,we have followed snowflake data modelling method.
 
    ![image](https://github.com/user-attachments/assets/d4a189b4-c7c4-4bd6-a856-8c8661e00c7b)
+   
+**Final Dashboard:**
+
+Users can view the visuals by clicking the button.
+
+- Info
+
+- Finance view
+
+- Sales View 
+
+- Supply Chain View
+ 
+- Marketing view
+
+- Executive view
+
+- Support
+
+
+   ![image](https://github.com/user-attachments/assets/06fd4979-07fe-45be-9bca-4fd466249efd)
+
 
 
