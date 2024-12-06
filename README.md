@@ -115,13 +115,13 @@ Users can view the visuals by clicking the button.
   
 ![image](https://github.com/user-attachments/assets/20067888-4712-4d2e-9068-83201e17dc0a)
 
-**Supply Chain View:**
-
-![image](https://github.com/user-attachments/assets/ee31f708-9840-4031-beed-321bc8c6cdb9)
-
 **Marketing View:**
 
 ![image](https://github.com/user-attachments/assets/95f68ab3-a522-41d0-b234-3ae394d5e063)
+
+**Supply Chain View:**
+
+![image](https://github.com/user-attachments/assets/ee31f708-9840-4031-beed-321bc8c6cdb9)
 
 **Executive View:**
 
