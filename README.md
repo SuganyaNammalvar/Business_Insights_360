@@ -71,6 +71,7 @@ Dataset is used for analysis,reporting and decision-making.In Power Bi,datasets 
    Since my data is in MYSQL ,we have to import from MYSQL to Power BI by providing valid database credential.
 
 **Power Query:**
+
  After importing dataset ,transform data in power query.It is a tool for ETL(Extract-Transform-Load).It is the place where ypu can change the datatype  of the column operation,format 
  operation,merge,replace,pivot,unpivot and so on..
 
