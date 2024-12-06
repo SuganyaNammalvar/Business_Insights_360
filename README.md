@@ -103,7 +103,7 @@ Users can view the visuals by clicking the button.
 
    ![image](https://github.com/user-attachments/assets/8f17f9e6-8f44-446d-95d7-dafd2624914b)
 
- ** Home Info:**
+ **Home Info:**
 
   ![image](https://github.com/user-attachments/assets/c9ffb63d-94c6-4864-8f58-23654d415684)
 
