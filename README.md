@@ -102,11 +102,32 @@ Users can view the visuals by clicking the button.
 
    ![image](https://github.com/user-attachments/assets/8f17f9e6-8f44-446d-95d7-dafd2624914b)
 
+ ** Home Info:**
+
   ![image](https://github.com/user-attachments/assets/c9ffb63d-94c6-4864-8f58-23654d415684)
+
+  **Finance view:**
 
   ![image](https://github.com/user-attachments/assets/2ee85f6a-7725-484b-ac4c-065ba39a0e38)
 
+  **Sales View:**
+  
 ![image](https://github.com/user-attachments/assets/20067888-4712-4d2e-9068-83201e17dc0a)
+
+**Supply Chain View:**
+
+![image](https://github.com/user-attachments/assets/ee31f708-9840-4031-beed-321bc8c6cdb9)
+
+**Marketing View:**
+
+![image](https://github.com/user-attachments/assets/95f68ab3-a522-41d0-b234-3ae394d5e063)
+
+**Executive View:**
+
+![image](https://github.com/user-attachments/assets/87082b24-435b-44d8-9a17-dfe84560f802)
+
+
+
 
 
 
