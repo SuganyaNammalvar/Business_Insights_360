@@ -102,5 +102,13 @@ Users can view the visuals by clicking the button.
 
    ![image](https://github.com/user-attachments/assets/8f17f9e6-8f44-446d-95d7-dafd2624914b)
 
+  ![image](https://github.com/user-attachments/assets/c9ffb63d-94c6-4864-8f58-23654d415684)
+
+  ![image](https://github.com/user-attachments/assets/2ee85f6a-7725-484b-ac4c-065ba39a0e38)
+
+![image](https://github.com/user-attachments/assets/20067888-4712-4d2e-9068-83201e17dc0a)
+
+
+
 
 
