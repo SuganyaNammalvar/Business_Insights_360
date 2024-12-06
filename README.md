@@ -65,3 +65,19 @@ Dataset is used for analysis,reporting and decision-making.In Power Bi,datasets 
    manufacturing_cost,
    pre_invoce deductions,
    post_invoice_deductions
+
+  **Importing Data into Power BI **
+   
+   Since my data is in MYSQL ,we have to import from MYSQL to Power BI by providing valid database credential.
+
+**Power Query:**
+ After importing dataset ,transform data in power query.It is a tool for ETL(Extract-Transform-Load).It is the place where ypu can change the datatype  of the column operation,format 
+ operation,merge,replace,pivot,unpivot and so on..
+
+**Data Modelling:**
+  
+   Data modelling is a very important part of the data anlaytics pipeline .It allows you to visually set the relationship between the tables.In this project,we have followed snowflake data modelling method.
+
+   ![image](https://github.com/user-attachments/assets/d4a189b4-c7c4-4bd6-a856-8c8661e00c7b)
+
+
