@@ -81,7 +81,7 @@ Dataset is used for analysis,reporting and decision-making.In Power Bi,datasets 
 
    ![image](https://github.com/user-attachments/assets/d4a189b4-c7c4-4bd6-a856-8c8661e00c7b)
    
-**Final Dashboard:**
+**Dashboard Overview:**
 
 Users can view the visuals by clicking the button.
 
