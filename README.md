@@ -100,7 +100,7 @@ Users can view the visuals by clicking the button.
 - Support
 
 
-   ![image](https://github.com/user-attachments/assets/06fd4979-07fe-45be-9bca-4fd466249efd)
+   ![image](https://github.com/user-attachments/assets/8f17f9e6-8f44-446d-95d7-dafd2624914b)
 
 
 
