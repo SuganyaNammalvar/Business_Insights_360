@@ -127,7 +127,9 @@ Users can view the visuals by clicking the button.
 
 ![image](https://github.com/user-attachments/assets/87082b24-435b-44d8-9a17-dfe84560f802)
 
+**Final Outcome:**
 
+Overall the visuals provides a clear direction and measureable steps for stakeholders to implement in order to achieve long term goals.
 
 
 
